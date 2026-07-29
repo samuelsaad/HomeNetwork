@@ -98,9 +98,6 @@ AllowedIPs = 10.20.0.2/32
 | 3 | WireGuard clients | NAS | 443 | Allow |
 | 4 | any | any | any | Deny (default) |
 
-> ⚠️ Never commit real keys, your public IP, or client VPN profiles. The private
-> RFC1918 addresses shown here (`192.168.x`, `10.x`) are safe to publish. The subnet
-> and NAS address above are illustrative — substitute your own if you prefer.
 
 ---
 
